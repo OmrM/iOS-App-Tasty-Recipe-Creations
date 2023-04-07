@@ -252,28 +252,6 @@ Here's a walkthrough of implemented user stories:
 <img src='http://g.recordit.co/tZfWNMUXbi.gif' title='Video Walkthrough' width='400' alt='Video Walkthrough' />
 
 
-  ## Milestone 3
-  
-   This is our third milestone out of four. This milestone will allow the user to be able to post a recipe and add descriptions with other ideas too. The user will also be able to view other recipes. 
-
-Time spent: **6** hours spent in total
-  
-## User Stories
-  
-The following are completed functionalities:
-
-- [x] User will be able to post a recipe with name; description; ingredients; directions; image; prep time; and cooking time
-- [x] User can view all recipes
-- [x] Create recipe screen
-- [x] User is able to click the type of meal they want whether its breakfast, lunch, or dinner
-- [x] User is able to create a post
-- [x] User is able to see a list of recipes
-  
-  
-  Here's a walkthrough of implemented user stories:
-  
-  <img src='https://github.com/The-MVPs/MobileApp/blob/main/Recipes-App/gifs/postRecipeAndViewAllRecipes.gif' title='Video Walkthrough' width='600' alt='Video Walkthrough' />
-
   
 ## Milestone 3.2
   
