@@ -290,4 +290,4 @@ The following are completed functionalities:
   
   Here's a walkthrough of implemented user stories:
   
-  <img src='http://g.recordit.co/PZpPUY0C7x.gif' title='Video Walkthrough' width='600' alt='Video Walkthrough' />
+  <img src='http://g.recordit.co/PZpPUY0C7x.gif' title='Video Walkthrough' width='300' alt='Video Walkthrough' />
