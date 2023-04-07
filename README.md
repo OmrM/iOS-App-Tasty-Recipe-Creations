@@ -208,28 +208,6 @@ Here's a walkthrough of implemented user stories:
 <img src='https://github.com/The-MVPs/MobileApp/blob/main/Recipes-App/gifs/milestone1loginpage.gif' title='Video Walkthrough' width='600' alt='Video Walkthrough' />
 
 
-  ## Milestone 2
-  
- This is our second milestone out of four. This milestone will allow the user to be able to login and choose the type of meal they want. Then they will be able to see recipes. 
-
-Time spent: **8** hours spent in total
-
-## User Stories
-
-The following are completed functionalities:
-
-- [x] User will be able to move to the favorite list screen
-- [x] User will be able to travel to the creation screen
-- [x] Create meal screen
-- [x] Create Tab Controller
-
-## Video Walkthrough
-
-Here's a walkthrough of implemented user stories:
-
-<img src='http://g.recordit.co/tZfWNMUXbi.gif' title='Video Walkthrough' width='400' alt='Video Walkthrough' />
-
-
   
 ## Milestone 3.2
   
