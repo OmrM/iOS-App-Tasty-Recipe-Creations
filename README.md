@@ -47,28 +47,6 @@ The Tasty Recipe Creations app will allow users to look up and capture online re
 * User can talk with other users
 * User can get help from others
 
-### 2. Screen Archetypes
-* Login Screen (Only shows up when not logged in)
-    * User can login here
-* Sign Up Screen (Only shows up when not logged in)
-    * User can create an account here
-* Home Screen 
-    * User can choose what type of recipes they want to see:
-        * Breakfast
-        * Lunch
-        * Dinner
-        * Dessert
-    * User can view recipes
-    * User can search recipes
-    * User can favorite recipes
-* Creation Screen
-    * User can post a recipe with  directions and an image
-* Saved Recipes Screen
-    * User can view favorited/saved recipes
-    * User can view favorited/saved recipes’ details
-    * User can unfavorite recipes
-  
-
 ### 3. Navigation
 
 **Tab Navigation** (Tab to Screen)
