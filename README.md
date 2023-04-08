@@ -69,9 +69,6 @@ The Tasty Recipe Creations app will allow users to look up and capture online re
 
 
 ## Wireframes
-<img src="https://media.giphy.com/media/93D02kRJMY6T9thuIw/giphy.gif" width=600>
-
-### [BONUS] Digital Wireframes & Mockups
 #### Login Flow
 <img
 src="https://i.imgur.com/cmMzouF.jpg" width=600>
