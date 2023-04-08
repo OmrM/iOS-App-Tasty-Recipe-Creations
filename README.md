@@ -3,6 +3,8 @@
 
 # Tasty Recipe Creations
 
+### Description
+I collaborated in a group project to develop an iOS app called Tasty Recipe Creations that helps users discover and save recipes. I contributed to the planning, wireframing, and development of user stories and interfaces. We used Figma, Xcode, and Parse Server to create an interactive prototype and implement features such as user login, recipe posting, recipe feed, recipe search, and favorite recipe list. I also participated in milestone planning and development, including creating a launch screen, login screen, adding app icon functionality, and the favorite button.
 ## Table of Contents
 1. [Overview](#Overview)
 1. [Product Spec](#Product-Spec)
@@ -12,17 +14,7 @@
 4. [Milestone 2](#Milestone-2)
 
 ## Overview
-### Description
-The Tasty Recipe Creations app will allow users to look up and capture online recipes. It will allow them to get ideas for a meal plan. It was also provide instructions on how to cook that specific meal.
-
-### App Evaluation
-
-- **Category:** Recipes 
-- **Mobile:** Users can use the app to get recipes for certain meals.
-- **Story:** Users can post before and after picture of how their meal looked. 
-- **Market:** Anyone who enjoys cooking and learning new recipes will enjoy this app.
-- **Habit:** Users can use this app at anytime of the day. They can get recipes for any meal of the day. Breakfast, snack, lunch, dinner and dessert.
-- **Scope:** V1 would allow users can post and view recipes with images and to view a timeline of recipes posted by other users. V2 would allow user to comment on, like, and favorite other users' recipes. 
+The Tasty Recipe Creations app helps users discover and save recipes. Users can post their recipes, view a feed of other users' recipes, search for recipes, and add recipes to their favorite list.
 
 ## Product Spec
 
