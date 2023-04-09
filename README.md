@@ -4,7 +4,7 @@
 # Tasty Recipe Creations
 
 ### Description
-I collaborated in a group project to develop an iOS app called Tasty Recipe Creations that helps users discover and save recipes. I contributed to the planning, wireframing, and development of user stories and interfaces. We used Figma, Xcode, and Parse Server to create an interactive prototype and implement features such as user login, recipe posting, recipe feed, recipe search, and favorite recipe list. I also participated in milestone planning and development, including creating a launch screen, login screen, adding app icon functionality, and the favorite button.
+I collaborated in a group project to develop an iOS app called Tasty Recipe Creations that helps users discover and save recipes. I contributed to the planning, wireframing, and development of user stories and interfaces. We used Figma, Xcode, and Parse Server to create a prototype and implement features such as user login, recipe posting, recipe feed, recipe search, and favorite recipe list.
 ## Table of Contents
 1. [Overview](#Overview)
 1. [Product Spec](#Product-Spec)
